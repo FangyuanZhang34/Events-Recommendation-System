@@ -1,4 +1,4 @@
-# Events-Recommendation-System
+# Events Recommendation System
 ### Java Web Service Development
 
 This events recommendation system is based on Ticket Master API. \\
